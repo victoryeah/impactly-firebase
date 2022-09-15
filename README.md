@@ -1,3 +1,16 @@
+###Hello guys!
+
+##I took a slighly shorter route, but it's something :)
+
+Typescripted React app, with some MUI-components, that allows you to create and toggle todo's.
+
+They are synced with a Realtime Database on my Google Firebase, so we are all sharing the same database for now.
+
+
+What Firebase connectivity allows, among other things, is to add authentication, and of course the update/delete functionality pretty easily.
+
+
+_____
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
