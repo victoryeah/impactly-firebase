@@ -2,9 +2,9 @@ import { useEffect, useState } from "react";
 import { getDatabase, ref, onValue, update } from "firebase/database";
 
 // Import firebase configuration from firebase.ts file
-import firebaseApp from "./firebase";
+import firebaseApp from "../firebase";
 
-import { Todo } from "./types";
+import { Todo } from "../types";
 import { Checkbox, FormControlLabel, Card, CardHeader } from "@mui/material";
 
 const TodoList = () => {
