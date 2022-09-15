@@ -7,7 +7,7 @@ Typescripted React app, with some MUI-components, that allows you to create and 
 They are synced with a Realtime Database on my Google Firebase, so we are all sharing the same database for now.
 
 
-What Firebase connectivity allows, among other things, is to add authentication, and of course the update/delete functionality pretty easily.
+What Firebase connectivity allows, among other things, is to add authentication, hosting and of course the update/delete functionality pretty easily.
 
 
 _____
