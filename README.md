@@ -1,6 +1,4 @@
-# Hello guys!
-
-## I took a slighly shorter route, but it's something :)
+# Hello!
 
 Typescripted React app, with some MUI-components, that allows you to create and toggle todo's.
 
